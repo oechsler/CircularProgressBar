@@ -8,12 +8,11 @@ Makes use of the SKShapeNode and SKLabelNode class.
 ### License
 Copyright © 2017 – Samuel Oechsler
 
-**Do what the fuck you want to public license.** Version 2, December 2004.
+**Do what the fuck you want to public license.** 
 
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed. 
 
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-0.  You just DO WHAT THE FUCK YOU WANT TO.
+Do what the fuck you want to public license terms and conditions for copying, distribution and modification: 
+You just do what the fuck you want to.
 
 [image-1]:	./Screenshot.png "Screenshot of the Playground"

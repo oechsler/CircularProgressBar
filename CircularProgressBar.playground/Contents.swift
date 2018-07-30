@@ -1,3 +1,5 @@
+//: # CircularProgressBar
+
 import PlaygroundSupport
 import SpriteKit
 
