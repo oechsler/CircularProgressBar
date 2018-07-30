@@ -1,7 +1,10 @@
 import PlaygroundSupport
 import SpriteKit
 
+// Global settings
 let radius: CGFloat = 90
+let width: CGFloat = 12
+let fontSize: CGFloat = 48
 
 class Scene: SKScene {
 
@@ -32,16 +35,16 @@ class Scene: SKScene {
         view.preferredFramesPerSecond = 30
         
         let backCircle = SKShapeNode(circleOfRadius: radius)
-        backCircle.lineWidth = 12
+        backCircle.lineWidth = width
         backCircle.alpha = 0.4
         circleNode.addChild(backCircle)
         
         percentageLabel.fontName = "Helvetica"
-        percentageLabel.fontSize = 48
+        percentageLabel.fontSize = fontSize
         percentageLabel.position.y = -percentageLabel.frame.size.height / 2.2
         circleNode.addChild(percentageLabel)
         
-        circleNode.lineWidth = 12
+        circleNode.lineWidth = width
         addChild(circleNode)
     }
     
