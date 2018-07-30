@@ -2,15 +2,5 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/samuel/Desktop/CircularProgressBar.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1226&amp;EndingColumnNumber=19&amp;EndingLineNumber=41&amp;StartingColumnNumber=9&amp;StartingLineNumber=41&amp;Timestamp=554650290.16396"
-         selectedRepresentationIndex = "0"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/samuel/Desktop/CircularProgressBar.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1872&amp;EndingColumnNumber=19&amp;EndingLineNumber=60&amp;StartingColumnNumber=9&amp;StartingLineNumber=60&amp;Timestamp=554650290.164075"
-         selectedRepresentationIndex = "0"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
