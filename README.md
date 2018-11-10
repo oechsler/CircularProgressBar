@@ -6,7 +6,7 @@ Makes use of the SKShapeNode and SKLabelNode class.
 ![][image-1]
 
 ### License
-Copyright © 2017 – Samuel Oechsler
+Copyright © 2018 – Samuel Oechsler
 
 **Do what the fuck you want to public license.** 
 
